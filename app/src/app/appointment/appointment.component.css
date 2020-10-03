@@ -1,0 +1,35 @@
+.form-container {
+    margin-top: 450px;
+    max-width: 340px;
+    margin-left: 60px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .error {
+    background-color: #d84f4f;
+    padding: 10px;
+  }
+  
+  .success {
+    background-color: #73cc73;
+    padding: 10px;
+  }
+  .card{
+    max-width: 500px;
+    align-content: center;
+    border-radius: 10%;
+    box-shadow: black;
+    margin: 50px auto 0 auto;
+  }
+  h1{
+    text-align: center;
+    font: outline;
+    font-weight: bold;
+    font-display: initial;
+  }
+
+  
